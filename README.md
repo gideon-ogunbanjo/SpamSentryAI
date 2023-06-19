@@ -1,6 +1,6 @@
 # SpamSentryAI
 ### Overview
-SpamSentryAI is a machine learning model designed to detect and classify emails as either spam or non-spam (also known as ham). By utilizing advanced machine learning techniques, SpamSentryAI provides accurate and efficient email spam detection, helping users keep their inboxes clean and free from unwanted messages.
+SpamSentryAI is a machine learning model designed to detect and classify emails as either spam or non-spam (also known as ham) based on the number of occurrences of certain words that are common in spam emails. By utilizing advanced machine learning techniques, SpamSentryAI provides accurate and efficient email spam detection, helping users keep their inboxes clean and free from unwanted messages.
 **Email Spam Detection: SpamSentryAI uses a trained machine learning model to analyze incoming emails and determine whether they are spam or non-spam.**
 ### Features
 - High Accuracy: The model has been trained on a large dataset, resulting in high accuracy in detecting and classifying spam emails.

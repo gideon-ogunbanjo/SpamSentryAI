@@ -17,4 +17,4 @@ SpamSentryAI can be used in a variety of applications and scenarios, including:
 - Personal Email Clients: Users can install SpamSentryAI as an add-on or plugin for their email clients to effectively manage their inbox and reduce the time spent on handling unwanted emails.
 - Corporate Email Systems: Organizations can deploy SpamSentryAI within their email systems to protect employees from spam emails and potential security threats.
 - E-commerce Platforms: Online marketplaces and e-commerce platforms can utilize SpamSentryAI to prevent spam messages from reaching their users and ensure a safer and more enjoyable shopping experience.
-<sub>Created by Gideon Ogunbanjo</sub>
+> Created by Gideon Ogunbanjo
